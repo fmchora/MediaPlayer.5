@@ -1,0 +1,7 @@
+#Sun Feb 19 22:50:48 MST 2017
+base.0=C\:\\Users\\Felipe\\Desktop\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ef4efcd029540f43f111001010232cbf936b2d14
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Felipe\\Desktop\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d81e809722aad71b95ec0ee855e73f32de9eae2a\\classes.dex
+base.1=C\:\\Users\\Felipe\\Desktop\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d81e809722aad71b95ec0ee855e73f32de9eae2a
+file.0=C\:\\Users\\Felipe\\Desktop\\MusicPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ef4efcd029540f43f111001010232cbf936b2d14\\classes.dex
